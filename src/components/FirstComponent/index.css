@@ -1,0 +1,52 @@
+.main-container{
+    position: absolute;
+    width: 1344px;
+    height: 850px;
+    left: 0px;
+    top: 0px;
+}
+
+.form-container{
+    position: absolute;
+    width: 1032.91px;
+    height: 603px;
+    left: 155.55px;
+    top: 113px;   
+    background: #FBF7F4;
+    border-radius: 25px;
+    display: flex;
+   
+    
+}
+
+.login-container{  
+    padding: 25px 30px;
+    margin: 40px 30px;
+}
+
+.image1{
+    width: 180px;
+    /* height: 180px; */
+    /* align-self:center; */
+}
+.image2{
+    width: 350px;
+    height: 350px;
+}
+.image-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    margin: 25px;
+    padding: 25px;
+}
+.list-container{
+    display: flex;
+    list-style-type: none;
+    
+}
+.welcome{
+    font-size: small;
+    opacity: 50%;
+}
